@@ -1,5 +1,5 @@
 nombre = "Cristian"
-apellido = ""
+apellido = "Olmos"
 
 bienvenida = "Bienvenid@ al cuerso " + nombre + apellido 
 print(bienvenida)
