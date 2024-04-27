@@ -1,4 +1,4 @@
-# curso-git
+# Título-ejemplo
 
 ## creando curso Git
 
