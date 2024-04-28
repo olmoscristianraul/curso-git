@@ -1,5 +1,2 @@
-nombres = "Cristian Raúl"
-apellido = "Olmos"
+Este es un ejemplo
 
-bienvenida = "Bienvenid@ al curso " + nombres + apellido 
-print(bienvenida)
